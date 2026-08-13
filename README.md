@@ -6,7 +6,7 @@
 꼭 ⬇ 아래 내용 모두 읽어보시고, ⬆ 완성된 코드도 확인해 보세요!
 
 [main(master) 브랜치로 이동](https://github.com/ParkYoungWoong/starbucks-vanilla-app) <br/>
-[signin 브랜치로 이동](https://github.com/ParkYoungWoong/starbucks-vanilla-app/tree/feature/signin)
+[signin 브랜치로 이동]([https://github.com/ParkYoungWoong/starbucks-vanilla-app/tree/feature/signin](https://github.com/jihwa0603/starbucks-for_study/tree/signin))
 
 [DEMO](https://flamboyant-lumiere-482a1e.netlify.app/) <br/>
 [DEMO+signin](https://priceless-bhabha-83fc0d.netlify.app/)

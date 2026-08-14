@@ -8,7 +8,7 @@
 [main(master) 브랜치로 이동](https://github.com/jihwa0603/starbucks-for_study/tree/main) <br/>
 [signin 브랜치로 이동](https://github.com/jihwa0603/starbucks-for_study/tree/signin)
 
-[DEMO+signin]([https://priceless-bhabha-83fc0d.netlify.app/](https://jazzy-pika-68f626.netlify.app/))
+[DEMO+signin](https://jazzy-pika-68f626.netlify.app/)
 
 ![Starbucks](https://github.com/jihwa0603/starbucks-for_study/blob/main/_assets/main_screenshot.jpg)
 
